@@ -1,12 +1,14 @@
 <!--
 PLEASE PROVIDE THE FOLLOWING INFORMATION.
-
-ISSUESNOT FOLLOWING THE ISSUE TEMPLATE WILL BE CLOSED WITHOUT INVESTIGATION.
+ISSUES NOT FOLLOWING THE ISSUE TEMPLATE WILL BE CLOSED WITHOUT INVESTIGATION.
 -->
-- [ ] **I have searched for similar issues in this repository, but couldn't find one.**
-- [ ] **I have read the README and have a basic understanding how angular works.**
-## I'm submitting a...
+
+- [x] **I have searched for similar issues in this repository, but couldn't find one.**
+- [x] **I have read the README and have a basic understanding how angular works.**
+<!-- If you have connection issues -->
+- [x] **I can run the plain mqtt.js example on https://sclausen.github.io/ngx-mqtt/ to connect, but it fails with ngx-mqtt.**
 <!-- Check one of the following options with "x" -->
+## I'm submitting a...
 - [ ] Regression (a behavior that used to work and stopped working in a new release)
 - [ ] Bug report  <!-- Please search GitHub for a similar issue or PR before submitting -->
 - [ ] Feature request
@@ -21,7 +23,7 @@ ISSUESNOT FOLLOWING THE ISSUE TEMPLATE WILL BE CLOSED WITHOUT INVESTIGATION.
 
 ## Minimal reproduction of the problem with instructions
 <!--
-For bug reports please provide a *MINIMAL DEMO* of the problem at https://codesandbox.io or https://stackblitz.com/ or a separated github repository.
+For bug reports please provide a *MINIMAL DEMO* of the problem in a separated github repository. It's not that I'm too stupid to implement your snippet in an angular application, but it's time consuming and since this is a spare time project and you want me to help you, I ask you to help me with it.
 -->
 
 ## What is the motivation / use case for changing the behavior?
