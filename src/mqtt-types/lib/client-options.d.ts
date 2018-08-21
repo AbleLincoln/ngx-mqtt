@@ -7,7 +7,7 @@ export interface IClientOptions extends ISecureClientOptions {
   host?: string // host does NOT include port
   hostname?: string
   path?: string
-  protocol?: 'wss' | 'ws'
+  protocol?: 'wss' | 'ws' | 'http'
 
   wsOptions?: {
     [x: string]: any
