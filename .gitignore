@@ -1,9 +1,6 @@
 tests/**/*.js
 tests/**/*.d.ts
 tests/**/*.metadata.json
-src/**/*.metadata.json
-*.map
-*.metadata.json
 .vscode
 coverage
 documentation
